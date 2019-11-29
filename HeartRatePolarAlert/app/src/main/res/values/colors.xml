@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="colorPrimary">#64b5f6</color>
+	<color name="colorPrimaryDark">#1565c0</color>
+	<color name="colorAccent">#2962ff</color>
+
+	<color name="bluePrimary1">#e3f2fd</color>
+	<color name="bluePrimary2">#bbdefb</color>
+	<color name="bluePrimary3">#90caf9</color>
+	<color name="bluePrimary4">#64b5f6</color>
+	<color name="bluePrimary5">#42a5f5</color>
+
+	<color name="blueDark1">#2196f3</color>
+	<color name="blueDark2">#1e88e5</color>
+	<color name="blueDark3">#1976d2</color>
+	<color name="blueDark4">#1565c0</color>
+	<color name="blueDark5">#0d47a1</color>
+
+	<color name="blueAccent1">#82b1ff</color>
+	<color name="blueAccent2">#448aff</color>
+	<color name="blueAccent3">#2979ff</color>
+	<color name="blueAccent4">#2962ff</color>
+
+
+	<color name="btnIncome">#527F90</color>
+	<color name="textIncome">#52BF90</color>
+	<color name="selected">#DBFFDA</color>
+
+	<color name="btnExpense">#FF5555</color>
+	<color name="textExpense">#FF8FAD</color>
+	<color name="unselected">#F2DFDF</color>
+
+	<color name="btnBudget">#0d47a1</color>
+	<color name="textBudget">#448aff</color>
+	<color name="budget">#bbdefb</color>
+
+	<color name="btnOk">#527F60</color>
+	<color name="textOk">#52BF60</color>
+	<color name="ok">#DBFFAA</color>
+
+	<color name="btnCancel">#FF1555</color>
+	<color name="textCancel">#FF4FAD</color>
+	<color name="cancel">#F2AFDF</color>
+
+	<color name="progressText">#2962ff</color>
+	<color name="progressBGBar">#0d47a1</color>
+	<color name="progressBar">#2992ff</color>
+	<color name="progressTextShadow">#64b5f6</color>
+
+	<color name="progressTextRed">#ff2962</color>
+	<color name="progressBGBarRed">#a10d47</color>
+	<color name="progressBarRed">#ff2992</color>
+	<color name="progressTextShadowRed">#f664b5</color>
+
+	<color name="transparent">#00000000</color>
+
+</resources>
